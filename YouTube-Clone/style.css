@@ -119,10 +119,14 @@ hr{
     height: 170px;
 
 }
+.ime{
+    display: flex;
+}
 .video_thumbnail img{
     object-fit: cover;
     height:100%;
     width: 100%;
+    border-radius: 10%;
 } 
 .author img{
     object-fit: cover;
